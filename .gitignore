@@ -1,0 +1,32 @@
+# =============================
+# Unity Generated (DO NOT COMMIT)
+# =============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# =============================
+# IDE / Editor
+# =============================
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.sln
+*.swp
+
+# =============================
+# OS (Windows)
+# =============================
+Thumbs.db
+desktop.ini
+
+# =============================
+# Unity Crash Reports
+# =============================
+sysinfo.txt
