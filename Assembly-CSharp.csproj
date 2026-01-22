@@ -49,6 +49,8 @@
     <Analyzer Include="D:\Unity\6000.3.4f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Project\Scripts\Training\ReactionTarget.cs" />
+    <Compile Include="Assets\Project\Scripts\Training\ReactionTrainer.cs" />
     <Compile Include="Assets\Project\Scripts\Player\ThirdPersonCamera.cs" />
     <Compile Include="Assets\Project\Scripts\Core\GameManager.cs" />
     <Compile Include="Assets\Project\Scripts\Player\PlayerMovement.cs" />
